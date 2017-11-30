@@ -1,0 +1,1 @@
+group vehicle drive city street  building near car traffic light bunch car sit park traffic light traffic light car go crosswalk street car move past intersection 
