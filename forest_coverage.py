@@ -28,7 +28,7 @@ labels = list(set(list(file_categories.keys()) + list(file_tags.keys())))
 mlb = MultiLabelBinarizer()
 mlb.fit([labels])
 
-rows = [["Name"] + labels]
+rows = [["Name"] + list(mlb.classes_)]
 
 pattern = "\d.*txt"
 
