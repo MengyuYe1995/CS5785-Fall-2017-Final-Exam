@@ -1,1 +1,1 @@
-train pull empty platform  yellow train pull train station next platform yellow train currently stop track passenger train leave train station empty commuter train approach outdoor railway station 
+train pull empty platform  yellow train pull train station next platform  yellow train currently stop track  passenger train leave train station empty commuter train approach outdoor railway station 

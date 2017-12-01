@@ -1,1 +1,1 @@
-man sand next brick oven fill fire  man stand next wood burn oven cook stand next outdoor brick oven man stand outside brick oven add wood man stand next brick oven 
+man sand next brick oven fill fire  man stand next wood burn oven  cook stand next outdoor brick oven  man stand outside brick oven add wood man stand next brick oven  

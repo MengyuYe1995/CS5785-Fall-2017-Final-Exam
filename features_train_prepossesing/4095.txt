@@ -1,1 +1,1 @@
-group sheep grassy area next fence  sheep look fence grassy enclosure two sheep look barbed wire fence three sheep stand behind metal fence grass three sheep stand field behind barbed wire fence 
+group sheep grassy area next fence  sheep look fence grassy enclosure  two sheep look barbed wire fence  three sheep stand behind metal fence grass  three sheep stand field behind barbed wire fence  
