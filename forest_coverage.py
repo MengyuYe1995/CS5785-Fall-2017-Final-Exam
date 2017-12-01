@@ -28,17 +28,15 @@ labels = list(set(list(file_categories.keys()) + list(file_tags.keys())))
 mlb = MultiLabelBinarizer()
 mlb.fit([labels])
 
-rows = [["Name"] + list(mlb.classes_)]
-
 pattern = "\d.*txt"
 
-encoded = {}
-for file_name in glob(join(data_path, tags_train, "*.txt")):
+rows = []
+for file_name in sorted(glob(join(data_path, tags_train, "*.txt"))):
     image_set = set()
     for line in open(file_name).readlines():
         image_set = image_set.union(set([line.strip().split(":")[0], line.strip().split(":")[1]]))
 
     rows.append([int(re.findall(pattern=pattern, string=file_name)[0].strip("\.txt"))] + list(mlb.transform([image_set])[0]))
+rows = sorted(rows, key=lambda x: x[0])
 
-
-csv.writer(open('processed_tags.csv', "w")).writerows(rows)
+csv.writer(open('processed_tags.csv', "w")).writerows([["Name"] + list(mlb.classes_)] + rows)
