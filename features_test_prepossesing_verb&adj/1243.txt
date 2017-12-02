@@ -1,0 +1,1 @@
+wait cross busy cross fill pass pedestrian blue wait cross cross busy walk lit 

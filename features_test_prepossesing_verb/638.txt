@@ -1,0 +1,1 @@
+stand set see  walk wear walk 

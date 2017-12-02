@@ -1,0 +1,1 @@
+crouch sit gray white strip sit perch look crouch sit pouncing 

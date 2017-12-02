@@ -1,0 +1,1 @@
+stand sing gather stand examine look 

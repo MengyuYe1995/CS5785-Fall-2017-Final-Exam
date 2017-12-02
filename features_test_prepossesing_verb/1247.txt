@@ -1,0 +1,1 @@
+ clutter fill include pink equip 

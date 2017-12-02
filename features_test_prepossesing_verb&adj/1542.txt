@@ -1,0 +1,1 @@
+pedestrian roll urban wait get  walk pull stand outside 

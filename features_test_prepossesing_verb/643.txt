@@ -1,0 +1,1 @@
+stand move  stand move wait wait 
