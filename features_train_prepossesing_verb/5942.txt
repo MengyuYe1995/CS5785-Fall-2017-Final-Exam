@@ -1,0 +1,1 @@
+fill update paint set show redecorate 

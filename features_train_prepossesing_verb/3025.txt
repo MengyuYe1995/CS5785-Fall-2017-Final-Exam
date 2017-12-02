@@ -1,0 +1,1 @@
+get  guide give show stand 

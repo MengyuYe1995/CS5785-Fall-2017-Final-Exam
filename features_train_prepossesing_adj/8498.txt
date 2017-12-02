@@ -1,0 +1,1 @@
+open tile open black white open small open white black open 

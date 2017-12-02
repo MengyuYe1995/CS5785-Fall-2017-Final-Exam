@@ -1,0 +1,1 @@
+wire street stoplight wire traffic light direction traffic light light walk light traffic signal 

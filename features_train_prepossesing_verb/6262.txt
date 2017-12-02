@@ -1,0 +1,1 @@
+stand cover  wait take wait ride ski 

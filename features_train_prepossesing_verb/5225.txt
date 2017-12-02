@@ -1,0 +1,1 @@
+stand walk graze stand eat graze 

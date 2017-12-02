@@ -1,0 +1,1 @@
+giraffe run savannah giraffe stand field giraffe chase giraffe bush giraffe run area tree giraffe walk grass sand beach 

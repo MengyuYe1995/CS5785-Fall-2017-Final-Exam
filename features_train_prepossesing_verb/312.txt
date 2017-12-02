@@ -1,0 +1,1 @@
+sit run walk cover hunt look stand 

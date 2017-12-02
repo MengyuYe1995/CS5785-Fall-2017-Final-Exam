@@ -1,0 +1,1 @@
+group elephant take environment elephant adult eat field group elephant graze field grass group elephant stand grass area elephant graze field 

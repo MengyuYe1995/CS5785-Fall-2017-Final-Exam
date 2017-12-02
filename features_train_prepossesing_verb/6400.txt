@@ -1,0 +1,1 @@
+hold stand wait play  prepare throw 

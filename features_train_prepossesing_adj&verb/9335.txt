@@ -1,0 +1,1 @@
+display rider sit  fill blue take 

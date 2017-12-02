@@ -1,0 +1,1 @@
+set adjust umbrella open hold next 

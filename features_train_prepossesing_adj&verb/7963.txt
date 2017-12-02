@@ -1,0 +1,1 @@
+point hold white use read qr hold take hold white 

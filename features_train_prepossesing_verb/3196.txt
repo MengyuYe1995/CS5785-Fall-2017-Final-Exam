@@ -1,0 +1,1 @@
+ stand wait wait stand place 

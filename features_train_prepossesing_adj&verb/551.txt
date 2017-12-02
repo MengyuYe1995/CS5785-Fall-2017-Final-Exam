@@ -1,0 +1,1 @@
+ stick sell  close prop read el 

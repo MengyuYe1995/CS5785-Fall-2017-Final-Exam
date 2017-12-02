@@ -1,0 +1,1 @@
+allow go drive enter say enter park 

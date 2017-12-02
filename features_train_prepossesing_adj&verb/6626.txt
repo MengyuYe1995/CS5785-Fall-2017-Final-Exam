@@ -1,0 +1,1 @@
+walk black run black white black star   

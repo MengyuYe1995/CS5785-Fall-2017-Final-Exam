@@ -1,0 +1,1 @@
+s  contain stack smallest stack 

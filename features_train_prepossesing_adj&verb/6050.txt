@@ -1,0 +1,1 @@
+ stand walk  surf wait look wad 

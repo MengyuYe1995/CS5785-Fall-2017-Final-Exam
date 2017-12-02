@@ -1,0 +1,1 @@
+black white hold walk exit hold black white walk hold hold stand 

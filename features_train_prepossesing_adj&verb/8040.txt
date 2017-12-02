@@ -1,0 +1,1 @@
+stand wait hit black white ready swing play black white swing 

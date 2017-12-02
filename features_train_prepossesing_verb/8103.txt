@@ -1,0 +1,1 @@
+decorate cover s cover s stand rid walk sit 

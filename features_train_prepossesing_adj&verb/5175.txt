@@ -1,0 +1,1 @@
+stack clear navel clear fill textured full sit ripe 

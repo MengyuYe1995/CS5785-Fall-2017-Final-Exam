@@ -1,0 +1,1 @@
+  eat crouch eat walk 

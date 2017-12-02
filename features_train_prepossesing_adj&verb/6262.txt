@@ -1,0 +1,1 @@
+stand snow cover  wait take many wait ride ski 

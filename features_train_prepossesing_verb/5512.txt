@@ -1,0 +1,1 @@
+bicycle look grow  walk stop stand get check 

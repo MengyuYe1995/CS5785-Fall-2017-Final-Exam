@@ -1,0 +1,1 @@
+open stand tile open black white open small stand open white black open 

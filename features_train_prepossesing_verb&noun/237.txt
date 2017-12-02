@@ -1,0 +1,1 @@
+bus sit street bus drive street passenger bus go city street bus move road street corner bus come street 

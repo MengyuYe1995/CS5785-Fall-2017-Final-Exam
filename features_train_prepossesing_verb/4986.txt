@@ -1,0 +1,1 @@
+look walk move stand walk include walk scatter encompass fill  

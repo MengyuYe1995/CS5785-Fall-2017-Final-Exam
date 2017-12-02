@@ -1,0 +1,1 @@
+person walk ground hold umbrella person umbrella walk scene person walk sidewalk umbrella view someone walkig street person walk street hold umbrella 
