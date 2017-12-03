@@ -1,0 +1,1 @@
+lay black white lay lay next black white 
