@@ -1,0 +1,1 @@
+group ram go grass ibex move grassy area towards something close goat field horn goat run enclosed field group ram walk grass 
