@@ -1,0 +1,1 @@
+pair giraffe walk grassy area enclosure giraffe walk next field giraffe walk abreast grassy field giraffe walk next pair giraffe walking area rock tree 
