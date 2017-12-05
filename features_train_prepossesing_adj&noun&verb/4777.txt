@@ -1,0 +1,1 @@
+group car  rid street  fireman stand next fire truck  street  several fire truck pull next car  group parked car next fire truck line car drive street 
